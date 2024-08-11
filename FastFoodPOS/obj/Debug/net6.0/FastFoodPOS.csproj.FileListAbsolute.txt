@@ -1,0 +1,15 @@
+/Users/dwaynelaughlin/Projects/FastFoodPOS/FastFoodPOS/bin/Debug/net6.0/FastFoodPOS
+/Users/dwaynelaughlin/Projects/FastFoodPOS/FastFoodPOS/bin/Debug/net6.0/FastFoodPOS.deps.json
+/Users/dwaynelaughlin/Projects/FastFoodPOS/FastFoodPOS/bin/Debug/net6.0/FastFoodPOS.runtimeconfig.json
+/Users/dwaynelaughlin/Projects/FastFoodPOS/FastFoodPOS/bin/Debug/net6.0/FastFoodPOS.dll
+/Users/dwaynelaughlin/Projects/FastFoodPOS/FastFoodPOS/bin/Debug/net6.0/FastFoodPOS.pdb
+/Users/dwaynelaughlin/Projects/FastFoodPOS/FastFoodPOS/obj/Debug/net6.0/FastFoodPOS.csproj.AssemblyReference.cache
+/Users/dwaynelaughlin/Projects/FastFoodPOS/FastFoodPOS/obj/Debug/net6.0/FastFoodPOS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dwaynelaughlin/Projects/FastFoodPOS/FastFoodPOS/obj/Debug/net6.0/FastFoodPOS.AssemblyInfoInputs.cache
+/Users/dwaynelaughlin/Projects/FastFoodPOS/FastFoodPOS/obj/Debug/net6.0/FastFoodPOS.AssemblyInfo.cs
+/Users/dwaynelaughlin/Projects/FastFoodPOS/FastFoodPOS/obj/Debug/net6.0/FastFoodPOS.csproj.CoreCompileInputs.cache
+/Users/dwaynelaughlin/Projects/FastFoodPOS/FastFoodPOS/obj/Debug/net6.0/FastFoodPOS.dll
+/Users/dwaynelaughlin/Projects/FastFoodPOS/FastFoodPOS/obj/Debug/net6.0/refint/FastFoodPOS.dll
+/Users/dwaynelaughlin/Projects/FastFoodPOS/FastFoodPOS/obj/Debug/net6.0/FastFoodPOS.pdb
+/Users/dwaynelaughlin/Projects/FastFoodPOS/FastFoodPOS/obj/Debug/net6.0/FastFoodPOS.genruntimeconfig.cache
+/Users/dwaynelaughlin/Projects/FastFoodPOS/FastFoodPOS/obj/Debug/net6.0/ref/FastFoodPOS.dll

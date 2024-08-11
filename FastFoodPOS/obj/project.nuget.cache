@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "I60nhHc527X0JarYhz6rflByXcJpKzhYFwFu4fbrJgFvNK+5C+D27tykFPc6Q6OvwicE8qtst4iIYIbxooPVfg==",
+  "success": true,
+  "projectFilePath": "/Users/dwaynelaughlin/Projects/FastFoodPOS/FastFoodPOS/FastFoodPOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/dwaynelaughlin/.nuget/packages/microsoft.build.tasks.git/8.0.0/microsoft.build.tasks.git.8.0.0.nupkg.sha512",
+    "/Users/dwaynelaughlin/.nuget/packages/microsoft.sourcelink.common/8.0.0/microsoft.sourcelink.common.8.0.0.nupkg.sha512",
+    "/Users/dwaynelaughlin/.nuget/packages/microsoft.sourcelink.github/8.0.0/microsoft.sourcelink.github.8.0.0.nupkg.sha512",
+    "/Users/dwaynelaughlin/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/dwaynelaughlin/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.31/microsoft.netcore.app.host.osx-x64.6.0.31.nupkg.sha512",
+    "/Users/dwaynelaughlin/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
